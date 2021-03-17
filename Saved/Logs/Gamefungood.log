@@ -1122,3 +1122,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.17-03.41.39:411][ 56]SourceControl: Commited [master 682ada7] GhostSamurai Katana Added.
 [2021.03.17-03.41.39:430][ 57]AssetCheck: New page: Asset Save: Floor_400x400
 [2021.03.17-03.41.39:430][ 57]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.03.17-03.45.28:900][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.17-03.45.28:924][586]LogSavePackage: Moving '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Saved/ThirdPersonExampleMap6123377A4BBEC7AF4DBADC94FB64B1C1.tmp' to '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.17-03.45.29:081][586]LogSavePackage: Moving '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Saved/ThirdPersonExampleMap_BuiltData1F71442A4E95C182173772BEB6AEB6FB.tmp' to '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.17-03.45.29:093][586]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.17-03.45.29:093][586]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.17-03.45.29:093][586]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.17-06.01.06:503][783]LogDirectoryWatcher: A directory notification failed for '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.03.17-06.01.06:503][783]LogDirectoryWatcher: A directory notification failed for '../../../../../../Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2021.03.17-06.01.06:503][783]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood/Content/' because it was empty or there was a buffer overflow. Attemping another request...
