@@ -2544,3 +2544,138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.20-18.28.32:206][307]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.03.20-18.28.32:206][307]LogContentValidation: Display: Validating AnimBlueprint /Game/GhostSamurai_katana/samurAnimBP.samurAnimBP
 [2021.03.20-18.28.32:206][307]LogContentValidation: Display: Validating BlendSpace /Game/GhostSamurai_katana/samurAnimBS.samurAnimBS
+[2021.03.20-18.38.07:803][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.03.20-18.38.07:809][ 11]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2021.03.20-18.48.08:475][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.20-18.48.08:479][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2021.03.20-18.58.08:997][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.20-18.58.09:000][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.028
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.37:900][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Mom/Documents/Unreal Projects/Gamefungood/Gamefungood'
+[2021.03.20-19.06.38:093][170]EditorErrors: Warning: No assets to check in!
+[2021.03.20-19.08.09:589][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.03.20-19.08.09:595][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2021.03.20-19.08.33:453][ 42]MapCheck: New page: Map Check
+[2021.03.20-19.08.33:474][ 42]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.20-19.08.33:474][ 42]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.20-19.08.33:478][ 42]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.03.20-19.08.33:494][ 42]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.03.20-19.08.33:494][ 42]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.03.20-19.08.33:494][ 42]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.03.20-19.08.33:495][ 42]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.03.20-19.08.33:503][ 42]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2021.03.20-19.08.33:530][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.03.20-19.08.33:540][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:547][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:548][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:549][ 42]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.20-19.08.33:549][ 42]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.20-19.08.33:549][ 42]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.20-19.08.33:549][ 42]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.20-19.08.33:549][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:551][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:552][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:553][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:555][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:556][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.33:557][ 42]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.03.20-19.08.34:482][ 42]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.20-19.08.34:482][ 42]TextureStreamingBuild: Display: Compiling optional shaders took 0.946 seconds.
+[2021.03.20-19.08.34:545][ 42]LogLevel: Display: Export Material TexCoord Scales took 0.063 seconds.
+[2021.03.20-19.08.34:551][ 42]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.03.20-19.08.34:572][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.20-19.08.34:574][ 42]LightingResults: New page: Lighting Build - Mar 20, 2021, 9:08:34 AM
+[2021.03.20-19.08.34:615][ 42]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.20-19.08.34:653][ 42]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.20-19.08.34:669][ 42]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.20-19.08.35:198][ 42]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.20-19.08.35:198][ 42]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24540
+[2021.03.20-19.08.37:848][ 42]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.20-19.08.37:848][ 42]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.20-19.08.37:848][ 42]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.20-19.08.37:848][ 42]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.20-19.08.37:848][ 42]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.20-19.08.38:062][ 42]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.20-19.08.38:063][ 42]MapCheck: New page: ThirdPersonExampleMap - Mar 20, 2021, 9:08:38 AM
+[2021.03.20-19.08.38:082][ 42]MapCheck: Warning: ThirdPersonCharacter_167 Static mesh actor has NULL StaticMesh property 
+[2021.03.20-19.08.38:082][ 42]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 19.428ms to complete.
+[2021.03.20-19.08.38:085][ 42]LogEditorBuildUtils: Build time 0:04
+[2021.03.20-19.08.38:194][ 43]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2021.03.20-19.08.38:197][ 43]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2021.03.20-19.08.38:574][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.20-19.08.38:574][ 43]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.20-19.08.38:574][ 43]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.20-19.08.38:574][ 43]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.20-19.08.39:027][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.20-19.08.41:762][202]Job is a success!
+[2021.03.20-19.08.41:919][203]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.03.20-19.08.41:919][203]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:          1: 7.8% covering 6.3% of volume
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:          2: 90.2% covering 1.1% of volume
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.20-19.08.41:920][203]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 51 bricks 	 100.0% (Persistent Level)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.03.20-19.08.42:164][203]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.03.20-19.08.42:373][203]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.03.20-19.08.42:373][203]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2021.03.20-19.08.42:374][203]Lightmass on DESKTOP-Q793HLK: 2.76 sec total, 166 ms importing, 16 ms setup, 513 ms photons, 2.02 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 22.1 sec total, 4.04 sec processing.
+[2021.03.20-19.08.42:391][203]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2021.03.20-19.08.42:441][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.03.20-19.08.42:460][203]LogStaticLightingSystem: Illumination: 7.84 sec (225 ms encoding lightmaps, 172 ms encoding shadowmaps)
+[2021.03.20-19.08.42:461][203]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.03.20-19.08.42:461][203]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.03.20-19.08.42:851][203]DumpUnbuiltLightIteractions
+[2021.03.20-19.08.42:851][203]Lights with unbuilt interactions: 0
+[2021.03.20-19.08.42:851][203]
+[2021.03.20-19.08.42:851][203]Primitives with unbuilt interactions: 0
+[2021.03.20-19.08.42:940][203]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.03.20-19.08.42:969][204]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.20-19.08.42:969][204]MapCheck: New page: ThirdPersonExampleMap - Mar 20, 2021, 9:08:42 AM
+[2021.03.20-19.08.42:969][204]MapCheck: Warning: ThirdPersonCharacter_167 Static mesh actor has NULL StaticMesh property 
+[2021.03.20-19.08.42:969][204]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.413ms to complete.
+[2021.03.20-19.08.50:807][926]LogSlate: Window 'Message Log' being destroyed
+[2021.03.20-19.08.50:822][926]LogSlate: Window 'Message Log' being destroyed
